@@ -1,0 +1,40 @@
+{
+
+    "INTERFACE": {
+        "Ethernet8": {
+            "ipv6_use_link_local_only": "enable"
+        },
+        "Ethernet12": {
+            "ipv6_use_link_local_only": "enable"
+        },
+        "Ethernet24": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet28": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet32": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet36": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet64": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet68": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet96": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet168": {
+            "ipv6_use_link_local_only": "enable" 
+        },
+        "Ethernet172": {
+            "ipv6_use_link_local_only": "enable" 
+        }       
+    }
+}
+
+
