@@ -1,5 +1,11 @@
 {
 
+    "LOOPBACK_INTERFACE": {
+        "Loopback0": {},
+        "Loopback0|172.28.5.145/32": {},
+        "Loopback0|fc00:0:1::1/128":{}
+    },
+
     "INTERFACE": {
         "Ethernet0": {
             "ipv6_use_link_local_only": "enable"
@@ -25,9 +31,8 @@
         "Ethernet28": {
             "ipv6_use_link_local_only": "enable" 
         },
-        "Ethernet32": {
-            "ipv6_use_link_local_only": "enable" 
-        },
+        "Ethernet32": {},
+        "Ethernet32|fc00:0000:1000:1::1/64": {},
         "Ethernet88": {
             "ipv6_use_link_local_only": "enable" 
         },
